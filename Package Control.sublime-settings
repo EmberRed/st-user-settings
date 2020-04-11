@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Dayle Rees Color Schemes",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
+		"Liquid",
+		"Package Control",
+		"PHP Companion"
+	]
+}
